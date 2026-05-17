@@ -1,4 +1,4 @@
-````md
+
 # URL Shortener Service
 
 A simple and efficient URL shortening service built using FastAPI and SQLite.  
@@ -52,7 +52,7 @@ url-shortener/
 ├── requirements.txt
 ├── README.md
 └── urls.db
-````
+
 
 ---
 
